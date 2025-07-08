@@ -1,3 +1,5 @@
+package week1;
+
 public class A009 {
     public boolean solution(String s) {
         boolean answer = true;

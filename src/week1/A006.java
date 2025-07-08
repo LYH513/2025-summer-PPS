@@ -1,3 +1,5 @@
+package week1;
+
 import java.util.*;
 class A006 {
     public int[] solution(int[] arr, int divisor) {

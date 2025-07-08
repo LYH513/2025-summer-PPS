@@ -1,3 +1,5 @@
+package week1;
+
 public class A003 {
     public int[] plusOne(int[] digits) {
         String s = "";

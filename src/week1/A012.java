@@ -1,3 +1,5 @@
+package week1;
+
 public class A012 {
     public int countPrimes(int n) {
 

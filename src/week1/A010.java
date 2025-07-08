@@ -1,3 +1,5 @@
+package week1;
+
 public class A010 {
     public int solution(String s) {
         int answer = Integer.MAX_VALUE;

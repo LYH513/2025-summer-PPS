@@ -1,6 +1,8 @@
+package week2;
+
 import java.util.*;
 
-public class Main {
+public class A022 {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);

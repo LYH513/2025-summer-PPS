@@ -1,3 +1,5 @@
+package week1;
+
 public class A005 {
     public int solution(String skill, String[] skill_trees) {
         int answer = 0;
