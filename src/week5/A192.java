@@ -1,7 +1,8 @@
-import java.util.Scanner;
-import java.util.Stack;
+package week5;
 
-public class Main {
+import java.util.Scanner;
+
+public class A192 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -10,7 +11,4 @@ public class Main {
         System.out.println(n*(n+1)/2);
 
     }
-
 }
-
-
